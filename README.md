@@ -66,4 +66,8 @@ Figure \ref{fig:density} shows the bounding box labeled wheat head images, and t
 
 #
 
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+![plot](./Pic1.png)
+![plot](./Pic2.png)
+![plot](./Pic3.png)
+![plot](./Pic4.png)
+![plot](./Pic5.png)
