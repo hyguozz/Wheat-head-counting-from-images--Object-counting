@@ -40,5 +40,5 @@ Figure 1. shows the distribution of the count number of bounding boxes per image
 ![plot](./Pic5.png)
 
 # Read this paper for detailed description. 
-<a href="./WheatHeadCounting(project report).pdf" class="image fit">Wheat Head Counting by Estimating a Density Map with
+<a href="https://arxiv.org/abs/2303.10542" class="image fit">Wheat Head Counting by Estimating a Density Map with
 Convolutional Neural Networks </a>
